@@ -8,7 +8,7 @@
            remote="aosp"
            sync-j="4" />
 
-
+</project>
   <project path="frameworks/base" name="platform/frameworks/base" />
 
 </manifest>
